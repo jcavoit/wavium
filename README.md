@@ -34,11 +34,11 @@ Wavium is a Windows desktop application that lets you download videos and audio 
 
 ## Download
 
-Grab the latest executable from [Releases](https://github.com/tu-usuario/wavium/releases/latest) — no Python or installation required.
+Grab the latest executable from [Releases](https://github.com/jcavoit/wavium/releases/latest) — no Python or installation required.
 
 | Version | Platform | Download |
 |---|---|---|
-| Beta v0.2 | Windows 10/11 (64-bit) | [Wavium Beta v0.2.exe](https://github.com/tu-usuario/wavium/releases/latest) |
+| Beta v0.1 | Windows 10/11 (64-bit) | [Wavium Beta v0.1.exe](https://github.com/jcavoit/wavium/releases/latest) |
 
 ***
 
