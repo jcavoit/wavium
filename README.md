@@ -120,12 +120,12 @@ Using this tool to download copyright-protected content without the rights holde
 
 ## Contributing
 
-Contributions are welcome. Open an [issue](https://github.com/tu-usuario/wavium/issues) to report bugs or suggest improvements, or submit a pull request directly.
+Contributions are welcome. Open an [issue](https://github.com/jcavoit/wavium/issues) to report bugs or suggest improvements, or submit a pull request directly.
 
 ***
 
 <div align="center">
 
-Made with ♥ by [tu-usuario](https://github.com/tu-usuario)
+Made by [jcavoit](https://github.com/jcavoit)
 
 </div>
