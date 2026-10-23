@@ -61,7 +61,7 @@ Grab the latest executable from [Releases](https://github.com/jcavoit/wavium/rel
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/tu-usuario/wavium.git
+git clone https://github.com/jcavoit/wavium.git
 cd wavium
 
 # 2. Install dependencies
